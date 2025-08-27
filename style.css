@@ -1,0 +1,66 @@
+/* style.css */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background: hsl(332, 88%, 69%);
+        }
+        h1 { text-align: center; }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+            margin-top: 10px;
+        }
+        table, th, td {
+            border: 1px solid #ccc;
+        }
+        th, td {
+            padding: 8px;
+            text-align: center;
+        }
+        form {
+            background: white;
+            padding: 15px;
+            border: 1px solid #ccc;
+            margin-bottom: 10px;
+        }
+        input, select {
+            padding: 5px;
+            margin: 5px;
+        }
+        button {
+            padding: 5px 10px;
+            cursor: pointer;
+        }
+        .btn-edit { background: rgba(241, 175, 52, 0.904); color: crgb(206, 206, 206); }
+        .btn-delete { background: #eb3131e0; color: rgb(0, 0, 0); }
+        .stock-bajo { background-color: #ffcccc; } /* resaltado en rojo claro */
+        #buscador {
+            width: 100%;
+            padding: 8px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+        }
+        .sugerencias {
+    border: 1px solid #ccc;
+    background: white;
+    position: absolute;
+    max-height: 120px;
+    overflow-y: auto;
+    width: 200px; /* ajustar al ancho del input */
+    display: none;
+    z-index: 10;
+}
+
+.sugerencias div {
+    padding: 5px;
+    cursor: pointer;
+}
+
+.sugerencias div:hover {
+    background-color: #eee;
+}
+
+.insumo-seleccionado {
+    background-color: hsl(330, 72%, 55%); /* color de fondo rosa */
+}

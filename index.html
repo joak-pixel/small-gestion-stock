@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Gestión de Stock</title>
+    
+</head>
+<body>
+
+<h1>Gestión de Stock de Insumos</h1>
+
+<form id="formInsumo">
+    <input type="text" id="nombre" placeholder="Nombre del insumo" required>
+    <input type="number" id="cantidad" placeholder="Cantidad" required>
+    <div class="input-contenedor" style="position: relative; display: inline-block;">
+    <input type="text" id="tipo" placeholder="Tipo de insumo" required>
+    <div id="sugerenciasTipo" class="sugerencias"></div>
+</div>
+    <button type="submit">Agregar</button>
+</form>
+
+<input type="text" id="buscador" placeholder="Buscar insumo...">
+
+<table>
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Cantidad</th>
+            <th>Tipo</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody id="listaInsumos"></tbody>
+</table>
+
+<h2>Salida de Stock</h2>
+
+<form id="formSalida">
+    <input type="text" id="insumoSeleccionado" placeholder="Seleccione un insumo" readonly required>
+    <input type="number" id="cantidadRetiro" placeholder="Cantidad a retirar" min="1" required>
+    <button type="submit">Retirar</button>
+</form>
+
+
+<h2>Historial de retiros</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Cantidad retirada</th>
+            <th>Fecha</th>
+        </tr>
+    </thead>
+    <tbody id="tablaHistorial"></tbody>
+</table>
+
+
+<script src="app.js"></script>
+<link rel="stylesheet" href="style.css">
+
+</body>
+</html>
