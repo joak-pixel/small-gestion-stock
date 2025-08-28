@@ -5,7 +5,7 @@ Está pensado como una herramienta práctica y personalizable para pequeños neg
 
 Permite registrar, editar y eliminar insumos, así como también gestionar las **entradas** y **retiros de stock**.
 
-![made with love](https://img.shields.io/badge/made%20with-love-red)
+
 ---
 
 ## 🚀 Funcionalidades
@@ -69,6 +69,9 @@ Permite registrar, editar y eliminar insumos, así como también gestionar las *
 
 👨‍💻 Autor
 
-Desarrollado por [Joaquin / joak-pixel].
-Proyecto realizado como práctica dentro de Oracle Next Education - Alura LATAM.
+Desarrollado por [Joaquin / joak-pixel].   ![made with love](https://img.shields.io/badge/made%20with-love-red)
+[![Twitter Follow](https://img.shields.io/twitter/follow/@joalopzz?style=social)](https://twitter.com/tuusuario)
+
+
+
 
