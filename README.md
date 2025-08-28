@@ -38,11 +38,11 @@ Permite registrar, editar y eliminar insumos, así como también gestionar las *
 ---
 
 ## 📂 Estructura del proyecto
-/gestor-stock
-│── index.html # Página principal
-│── script.js # Lógica en JavaScript
-│── style.css # Estilos CSS
-│── README.md # Documentación del proyecto
+
+- 📄 **index.html** → Página principal  
+- 📜 **script.js** → Lógica en JavaScript  
+- 🎨 **style.css** → Estilos CSS  
+- 📝 **README.md** → Documentación del proyecto  
 
 
 ## ▶️ Cómo usarlo
