@@ -44,6 +44,7 @@ Permite registrar, editar y eliminar insumos, así como también gestionar las *
 - 🎨 **style.css** → Estilos CSS  
 - 📝 **README.md** → Documentación del proyecto  
 
+---
 
 ## ▶️ Cómo usarlo
 
@@ -55,8 +56,7 @@ Permite registrar, editar y eliminar insumos, así como también gestionar las *
 
 3. ¡Listo! Ya podés empezar a gestionar tus insumos.
 
-
-
+---
 
 📌 Próximas mejoras
 
@@ -66,12 +66,13 @@ Permite registrar, editar y eliminar insumos, así como también gestionar las *
 
 ✅ Reportes de movimientos de stock.
 
+---
 
 👨‍💻 Autor
 
 Desarrollado por [Joaquin / joak-pixel].   ![made with love](https://img.shields.io/badge/made%20with-love-red)
 [![Twitter Follow](https://img.shields.io/twitter/follow/joalopzz?style=social)](https://twitter.com/joalopzz)
 
-
+---
 
 
