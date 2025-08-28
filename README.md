@@ -70,7 +70,7 @@ Permite registrar, editar y eliminar insumos, así como también gestionar las *
 👨‍💻 Autor
 
 Desarrollado por [Joaquin / joak-pixel].   ![made with love](https://img.shields.io/badge/made%20with-love-red)
-[![Twitter Follow](https://img.shields.io/twitter/follow/@joalopzz?style=social)](https://twitter.com/tuusuario)
+[![Twitter Follow](https://img.shields.io/twitter/follow/joalopzz?style=social)](https://twitter.com/joalopzz)
 
 
 
