@@ -50,7 +50,7 @@ Permite registrar, editar y eliminar insumos, así como también gestionar las *
 
 1. Clonar este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/gestor-stock.git
+   git clone https://github.com/joak-pixel/gestor-stock.git
 
 2. Abrir el archivo index.html en tu navegador.
 
